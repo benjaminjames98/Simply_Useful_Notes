@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Notes</string>
+  <string name="placeholder">Place Holder</string>
+  <string name="title_activity_editor">Editor</string>
+  <string name="a_z">A-Z</string>
+  <string name="x_when_done">x</string>
+  <string name="priority">priority</string>
+  <string name="finished">finished</string>
+  <string name="created">created</string>
+  <string name="completed">done</string>
+  <string name="write_here">write here</string>
+  <string name="delete">delete</string>
+  <string name="edit">edit</string>
+  <string name="expand">expand</string>
+  <string name="action_filter">Filter</string>
+  <string name="reset">Reset</string>
+  <string name="yyyy_mm_dd">yyyy-mm-dd</string>
+  <string name="placeholder_short">x</string>
+</resources>
